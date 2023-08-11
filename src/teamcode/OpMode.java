@@ -1,4 +1,4 @@
-package treamcode;
+package teamcode;
 
 public abstract class OpMode {
 

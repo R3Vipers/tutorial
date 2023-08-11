@@ -1,17 +1,10 @@
 package Main;
 
-import RobotUtilities.MovementVars;
 import com.company.ComputerDebugging;
 import com.company.FloatPoint;
 import com.company.Robot;
-import com.company.UdpServer;
-import treamcode.MyOpMode;
-import treamcode.OpMode;
-
-import java.io.IOException;
-import java.net.DatagramPacket;
-import java.net.DatagramSocket;
-import java.net.InetAddress;
+import teamcode.MyOpMode;
+import teamcode.OpMode;
 
 public class Main {
 
